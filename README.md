@@ -1,7 +1,7 @@
 # weather-i-go
-
-## Deployed URL: https://faithscoding.github.io/weather-i-go/   
-## GitHub URL: https://github.com/FaithsCoding/weather-i-go   
+Project 1 - forked the project
+## Deployed URL: https://dexit.github.io/weather-i-go-dev/   
+## GitHub URL: https://github.com/dexit/weather-i-go   
 
 ## Project Description
 For our first project we have created an events app. 
